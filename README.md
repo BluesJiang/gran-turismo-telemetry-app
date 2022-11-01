@@ -1,4 +1,4 @@
-v0.1.0-beta2
+v0.1.0-beta3
 
 ## Usage
 
@@ -10,7 +10,12 @@ After entering the ip address, click "连接" button to connect. If you can see 
 
 Now you can click "开始录制" to open start record the telemetry data. Click "停止录制"  to stop recording. You can change the saving path in the "设置". Records will be saved to the path with the '.rec' extension (the extension has not been settled becase it's a beta version).
 
-
 Next, click "打开回放" to enter playback window. Click "+" to open a file you just record. And choose some Lap to analyze and compare!
 
 ![Play BackWindow](https://github.com/BluesJiang/gran-turismo-telemetry-app/blob/main/img/20221101112437.jpg)
+
+## Note
+
+* This app is still developing, you can try it and file some bug in github issue.
+* If you have any idea, you can also file it in the github issue.
+* If you are interest in this app and want to develop it with us, you are welcome to mail (blues_jiang@foxmail.com) to invite you to join the develop team. :)

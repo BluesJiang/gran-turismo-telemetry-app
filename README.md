@@ -1,4 +1,4 @@
-v0.1.0-beta3
+v0.1.0-beta.4
 
 ## Usage
 
